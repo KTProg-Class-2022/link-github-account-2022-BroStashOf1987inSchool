@@ -7,7 +7,7 @@ namespace HelloClass
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mr. Lesieur!");
-            Console.WriteLine("What up homies");
+            Console.WriteLine("Hello Luke");
         }
     }
 }
